@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\futtwe APP\\news_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "H:\\futtwe APP\\bgnews\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "H:\\futtwe APP\\news_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "H:\\futtwe APP\\bgnews\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

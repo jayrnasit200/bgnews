@@ -2,8 +2,14 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:news_app_api/views/homepage.dart';
+import 'package:news_app_api/helper/ad_helper.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-void main() => runApp(Myapp());
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  MobileAds.instance.initialize();
+  runApp(const Myapp());
+}
 
 class Myapp extends StatefulWidget {
   const Myapp({key}) : super(key: key);
