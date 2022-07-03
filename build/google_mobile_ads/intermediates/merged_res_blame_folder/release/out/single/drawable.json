@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\admob_close_button_white_circle_black_cross.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\2edc8505f396b341aa3366403f9a2ff6\\transformed\\jetified-play-services-ads-20.6.0\\res\\drawable\\admob_close_button_white_circle_black_cross.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\d1a9dfc16f1161d15d645c36e0991947\\transformed\\jetified-play-services-base-17.6.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "H:\\futtwe APP\\bgnews\\build\\google_mobile_ads\\intermediates\\merged_res\\release\\drawable\\admob_close_button_black_circle_white_cross.xml",
+        "source": "C:\\Users\\Admin$\\.gradle\\caches\\transforms-3\\2edc8505f396b341aa3366403f9a2ff6\\transformed\\jetified-play-services-ads-20.6.0\\res\\drawable\\admob_close_button_black_circle_white_cross.xml"
+    }
+]
