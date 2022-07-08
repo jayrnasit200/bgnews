@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bgwebinfo.news_app">
    <application
-        android:label="BG NEWS"
+        android:label="Indian English News"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

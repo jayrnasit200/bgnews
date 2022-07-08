@@ -22,7 +22,7 @@ class _MyappState extends State<Myapp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Bg New",
+      title: "Indian English News",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: Colors.white,
@@ -54,28 +54,33 @@ class _splashscreenState extends State<splashscreen> {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.white,
-      // child: Image.asset("logo.jpg"),
       child: Center(
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            Text(
-              "BG",
-              style: TextStyle(
-                  color: Colors.black87,
-                  fontWeight: FontWeight.w600,
-                  decoration: TextDecoration.none),
-            ),
-            Text(
-              "News",
-              style: TextStyle(
-                  color: Colors.blue,
-                  fontWeight: FontWeight.w600,
-                  decoration: TextDecoration.none),
-            )
-          ],
-        ),
-      ),
+          child: Image.asset(
+        "assets/logobg.png",
+        height: 200,
+        width: 200,
+      )),
+      // child: Center(
+      //   child: Column(
+      //     mainAxisAlignment: MainAxisAlignment.center,
+      //     children: <Widget>[
+      //       Text(
+      //         "Indian",
+      //         style: TextStyle(
+      //             color: Colors.black87,
+      //             fontWeight: FontWeight.w600,
+      //             decoration: TextDecoration.none),
+      //       ),
+      //       Text(
+      //         "News",
+      //         style: TextStyle(
+      //             color: Colors.blue,
+      //             fontWeight: FontWeight.w600,
+      //             decoration: TextDecoration.none),
+      //       )
+      //     ],
+      //   ),
+      // ),
     );
   }
 }

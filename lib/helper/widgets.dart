@@ -10,8 +10,8 @@ Widget MyAppBar() {
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
         Text(
-          "BG",
-          style: TextStyle(color: Colors.black87, fontWeight: FontWeight.w600),
+          "Indian",
+          style: TextStyle(color: Colors.black, fontWeight: FontWeight.w600),
         ),
         Text(
           "News",
