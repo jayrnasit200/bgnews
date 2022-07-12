@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bgwebinfo.news_app">
+    package="social.bgwebinfo.news_app">
    <application
         android:label="Indian English News"
         android:name="${applicationName}"
